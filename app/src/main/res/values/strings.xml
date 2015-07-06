@@ -256,7 +256,6 @@
   <string name="digits_prompt">Length of generated code</string>
   <string-array name="digits">
     <item>6</item>
-    <item>7</item>
     <item>8</item>
   </string-array>
 
